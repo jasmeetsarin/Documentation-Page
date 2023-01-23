@@ -1,5 +1,6 @@
 @media only screen and (max-width: 400px) {
   #main-doc {
+   
     margin-left: -10px;
   }
 }
@@ -7,8 +8,8 @@
 #navbar {
   position: fixed;
   min-width: 290px;
-  top: 0px;
-  left: 0px;
+  left:0px;
+  top:0px;
   width: 300px;
   height: 100%;
   border-right: solid;
@@ -17,7 +18,7 @@
 
 #main-doc {
   position: absolute;
-  margin-left: 310px;
+  margin-left: 300px;
   padding: 20px;
 }
 
